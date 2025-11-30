@@ -49,6 +49,7 @@ Cyberfraud Detector is designed with **modular and scalable architecture**:
 
 ## 📊 Visual Workflow  
 
+```mermaid
 flowchart TD
     A[User Activity] --> B[Data Collection]
     B --> C[Fraud Detection Engine]
@@ -57,7 +58,7 @@ flowchart TD
     D -->|No| F[Mark as Safe ✅]
     E --> G[Security Team Action]
     F --> H[Continue Monitoring 🔄]
-
+```
 
 ---
 
@@ -83,7 +84,3 @@ This project is licensed under the **MIT License** – free to use, modify, and 
 ---
 
 🔥 With **Cyberfraud Detector**, you’re not just detecting fraud—you’re **building trust in digital ecosystems**.  
-
----
-
-Would you like me to also design a **GitHub banner image idea** (like a hero graphic with icons and text) that you can generate and upload to make your repo visually striking?
